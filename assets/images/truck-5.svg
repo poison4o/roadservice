@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#192a56"/>
+      <stop offset="100%" stop-color="#273c75"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="260" rx="24" fill="url(#grad)"/>
+  <path d="M40 170 c20-50 80-80 140-60 50 15 80 70 140 60" stroke="#00c2ff" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <circle cx="130" cy="185" r="26" fill="#0b1a33" stroke="#00c2ff" stroke-width="8"/>
+  <circle cx="270" cy="185" r="26" fill="#0b1a33" stroke="#00c2ff" stroke-width="8"/>
+  <text x="200" y="120" font-family="'Manrope', 'Segoe UI', sans-serif" font-size="48" fill="#ffffff" text-anchor="middle">RoadCare</text>
+</svg>
