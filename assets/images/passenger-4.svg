@@ -3,23 +3,23 @@
   <defs>
     <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#071327" />
-      <stop offset="100%" stop-color="#11527a" />
+      <stop offset="100%" stop-color="#a54c20" />
     </linearGradient>
   </defs>
   <rect width="400" height="260" rx="24" fill="url(#bg4)" />
   <rect x="52" y="188" width="296" height="26" rx="12" fill="#08192e" />
   <path d="M112 86h116c20 0 38 12 46 30l24 60H84l18-60c6-18 24-30 44-30z" fill="#0f2d4c" />
-  <rect x="108" y="104" width="184" height="46" rx="12" fill="#1f6a9f" />
+  <rect x="108" y="104" width="184" height="46" rx="12" fill="#c76325" />
   <rect x="116" y="112" width="52" height="30" rx="10" fill="#0d233c" />
   <rect x="232" y="112" width="52" height="30" rx="10" fill="#0d233c" />
-  <circle cx="160" cy="196" r="18" fill="#091324" stroke="#3ce0ff" stroke-width="6" />
-  <circle cx="264" cy="196" r="18" fill="#091324" stroke="#3ce0ff" stroke-width="6" />
-  <path d="M172 76c0-14 12-26 26-26s26 12 26 26" fill="none" stroke="#3ce0ff" stroke-width="6" stroke-linecap="round" />
-  <path d="M152 74c-10-20-32-30-52-18-12 8-14 24-4 34" fill="none" stroke="#3ce0ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="18 12" />
-  <path d="M228 74c10-20 32-30 52-18 12 8 14 24 4 34" fill="none" stroke="#3ce0ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="18 12" />
-  <rect x="190" y="58" width="20" height="28" rx="10" fill="#3ce0ff" />
+  <circle cx="160" cy="196" r="18" fill="#091324" stroke="#ffca99" stroke-width="6" />
+  <circle cx="264" cy="196" r="18" fill="#091324" stroke="#ffca99" stroke-width="6" />
+  <path d="M172 76c0-14 12-26 26-26s26 12 26 26" fill="none" stroke="#ffca99" stroke-width="6" stroke-linecap="round" />
+  <path d="M152 74c-10-20-32-30-52-18-12 8-14 24-4 34" fill="none" stroke="#ffca99" stroke-width="6" stroke-linecap="round" stroke-dasharray="18 12" />
+  <path d="M228 74c10-20 32-30 52-18 12 8 14 24 4 34" fill="none" stroke="#ffca99" stroke-width="6" stroke-linecap="round" stroke-dasharray="18 12" />
+  <rect x="190" y="58" width="20" height="28" rx="10" fill="#ffca99" />
   <path d="M196 46h8l6 12h-20z" fill="#1a375a" />
   <path d="M86 148l-28 18 14 24h30l12-34z" fill="#1a375a" />
   <path d="M314 148l28 18-14 24h-30l-12-34z" fill="#1a375a" />
-  <rect x="172" y="142" width="56" height="14" rx="6" fill="#3ce0ff" opacity="0.5" />
+  <rect x="172" y="142" width="56" height="14" rx="6" fill="#ffca99" opacity="0.5" />
 </svg>

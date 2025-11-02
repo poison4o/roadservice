@@ -5,7 +5,7 @@
   --text-muted: #55607a;
   --primary: #2152ff;
   --primary-strong: #0f2ca6;
-  --accent: #00c2ff;
+  --accent: #ff8a3d;
   --shadow: 0 24px 60px rgba(9, 26, 54, 0.12);
   --radius-xl: 28px;
   --radius-lg: 20px;
@@ -208,6 +208,10 @@ nav a.active::after {
 
 .section-header p {
   color: var(--text-muted);
+}
+
+.section-header .section-extended {
+  font-size: 1rem;
 }
 
 .gallery {

@@ -11,17 +11,17 @@
   <path d="M88 118h160l18 28c4 6 12 10 20 10h50v28H64l12-42c2-10 12-24 24-24z" fill="#0d2237" />
   <rect x="96" y="96" width="150" height="44" rx="14" fill="#17395b" />
   <rect x="108" y="104" width="126" height="28" rx="10" fill="#061622" />
-  <path d="M100 126h64l-12 24H88z" fill="#28c9ff" opacity="0.4" />
-  <path d="M208 126h18l10 24h-18z" fill="#28c9ff" opacity="0.4" />
-  <circle cx="150" cy="204" r="20" fill="#091324" stroke="#28c9ff" stroke-width="6" />
-  <circle cx="244" cy="204" r="20" fill="#091324" stroke="#28c9ff" stroke-width="6" />
+  <path d="M100 126h64l-12 24H88z" fill="#ffa65a" opacity="0.4" />
+  <path d="M208 126h18l10 24h-18z" fill="#ffa65a" opacity="0.4" />
+  <circle cx="150" cy="204" r="20" fill="#091324" stroke="#ffa65a" stroke-width="6" />
+  <circle cx="244" cy="204" r="20" fill="#091324" stroke="#ffa65a" stroke-width="6" />
   <rect x="264" y="82" width="76" height="58" rx="18" fill="#0d2237" />
   <path d="M272 90h60v42h-60z" fill="#061622" />
-  <path d="M272 110h60" stroke="#28c9ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="16 10" />
-  <path d="M282 124h16" stroke="#28c9ff" stroke-width="6" stroke-linecap="round" />
-  <path d="M306 124h16" stroke="#28c9ff" stroke-width="6" stroke-linecap="round" />
+  <path d="M272 110h60" stroke="#ffa65a" stroke-width="6" stroke-linecap="round" stroke-dasharray="16 10" />
+  <path d="M282 124h16" stroke="#ffa65a" stroke-width="6" stroke-linecap="round" />
+  <path d="M306 124h16" stroke="#ffa65a" stroke-width="6" stroke-linecap="round" />
   <path d="M82 96L62 74l14-34h28l8 38z" fill="#143049" />
-  <path d="M70 64l12-30 18 10-12 32z" fill="#28c9ff" opacity="0.35" />
+  <path d="M70 64l12-30 18 10-12 32z" fill="#ffa65a" opacity="0.35" />
   <path d="M330 192l12 24h-40l-6-24z" fill="#0d2237" />
-  <circle cx="332" cy="230" r="10" fill="#28c9ff" />
+  <circle cx="332" cy="230" r="10" fill="#ffa65a" />
 </svg>
