@@ -44,6 +44,11 @@ img {
   box-shadow: var(--shadow);
 }
 
+.hero-visual img,
+.gallery img {
+  background: var(--surface);
+}
+
 header {
   position: sticky;
   top: 0;
