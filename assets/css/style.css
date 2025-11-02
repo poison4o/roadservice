@@ -46,7 +46,7 @@ img {
 
 .hero-visual img,
 .gallery img {
-  background: var(--surface);
+  background: transparent;
 }
 
 header {
