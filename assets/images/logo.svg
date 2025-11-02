@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 40" role="img" aria-labelledby="title desc">
-  <title id="title">RoadShield Rescue Logo</title>
-  <desc id="desc">Stylized shield with road and text RoadShield Rescue</desc>
+  <title id="title">Лого на Виби Транс 09</title>
+  <desc id="desc">Стилизирана щит-емблема с път и надпис Виби Транс 09</desc>
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#3d6ef7"/>
@@ -12,6 +12,6 @@
     <path d="M20 10 l5 20" stroke="#53f5ff" stroke-linecap="round"/>
     <path d="M26 12 h7" stroke="#53f5ff" stroke-linecap="round"/>
   </g>
-  <text x="60" y="26" font-family="'Manrope', 'Segoe UI', sans-serif" font-size="20" fill="#0b1a33" font-weight="700">RoadShield</text>
-  <text x="60" y="36" font-family="'Manrope', 'Segoe UI', sans-serif" font-size="12" fill="#3d6ef7" letter-spacing="2">RESCUE</text>
+  <text x="60" y="26" font-family="'Manrope', 'Segoe UI', sans-serif" font-size="20" fill="#0b1a33" font-weight="700">Виби Транс</text>
+  <text x="60" y="36" font-family="'Manrope', 'Segoe UI', sans-serif" font-size="12" fill="#3d6ef7" letter-spacing="2">09</text>
 </svg>
