@@ -8,16 +8,16 @@
   </defs>
   <rect width="400" height="260" rx="24" fill="url(#bg3)" />
   <rect x="46" y="188" width="308" height="24" rx="12" fill="#0b1f3b" />
-  <path d="M94 92h76c6 0 12 3 16 8l34 48c4 6 10 8 16 8h38" fill="none" stroke="#46e0ff" stroke-width="10" stroke-linecap="round" />
-  <circle cx="118" cy="168" r="42" fill="#091324" stroke="#46e0ff" stroke-width="8" />
-  <circle cx="118" cy="168" r="18" fill="#0f263f" stroke="#46e0ff" stroke-width="4" />
+  <path d="M94 92h76c6 0 12 3 16 8l34 48c4 6 10 8 16 8h38" fill="none" stroke="#ffd3a7" stroke-width="10" stroke-linecap="round" />
+  <circle cx="118" cy="168" r="42" fill="#091324" stroke="#ffd3a7" stroke-width="8" />
+  <circle cx="118" cy="168" r="18" fill="#0f263f" stroke="#ffd3a7" stroke-width="4" />
   <path d="M118 126c24 0 42 18 42 42" fill="none" stroke="#133b60" stroke-width="10" stroke-linecap="round" />
   <rect x="172" y="112" width="44" height="100" rx="14" fill="#133b60" />
-  <rect x="188" y="120" width="12" height="72" rx="6" fill="#46e0ff" />
+  <rect x="188" y="120" width="12" height="72" rx="6" fill="#ffd3a7" />
   <path d="M208 142l86-36c8-3 16 1 18 10l10 46-42 20z" fill="#1d3454" />
   <path d="M210 176l60-28 8 34-60 28z" fill="#0f1f36" />
-  <circle cx="292" cy="194" r="20" fill="#091324" stroke="#46e0ff" stroke-width="6" />
+  <circle cx="292" cy="194" r="20" fill="#091324" stroke="#ffd3a7" stroke-width="6" />
   <path d="M70 110l14-42 32 6-14 44z" fill="#1d3454" />
-  <path d="M66 108h22l-10 62H56z" fill="#46e0ff" opacity="0.35" />
-  <path d="M94 76c0-10 8-18 18-18s18 8 18 18-8 18-18 18-18-8-18-18z" fill="#46e0ff" />
+  <path d="M66 108h22l-10 62H56z" fill="#ffd3a7" opacity="0.35" />
+  <path d="M94 76c0-10 8-18 18-18s18 8 18 18-8 18-18 18-18-8-18-18z" fill="#ffd3a7" />
 </svg>
