@@ -1,13 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-labelledby="title">
+  <title id="title">Ремонт на хладилен агрегат</title>
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#192a56"/>
-      <stop offset="100%" stop-color="#273c75"/>
+    <linearGradient id="bg10" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#041120" />
+      <stop offset="100%" stop-color="#0f3f62" />
     </linearGradient>
   </defs>
-  <rect width="400" height="260" rx="24" fill="url(#grad)"/>
-  <path d="M40 170 c20-50 80-80 140-60 50 15 80 70 140 60" stroke="#00c2ff" stroke-width="12" fill="none" stroke-linecap="round"/>
-  <circle cx="130" cy="185" r="26" fill="#0b1a33" stroke="#00c2ff" stroke-width="8"/>
-  <circle cx="270" cy="185" r="26" fill="#0b1a33" stroke="#00c2ff" stroke-width="8"/>
-  <text x="200" y="120" font-family="'Manrope', 'Segoe UI', sans-serif" font-size="48" fill="#ffffff" text-anchor="middle">ВибиТранс</text>
+  <rect width="400" height="260" rx="24" fill="url(#bg10)" />
+  <rect x="38" y="192" width="324" height="24" rx="12" fill="#081c30" />
+  <path d="M78 126h188l22 28c4 6 12 10 20 10h56v26H52l12-42c4-12 12-22 14-22z" fill="#0d2740" />
+  <rect x="90" y="98" width="172" height="54" rx="16" fill="#175074" />
+  <rect x="102" y="108" width="148" height="34" rx="10" fill="#061a2c" />
+  <path d="M280 90h40l28 36-28 36h-40z" fill="#175074" />
+  <rect x="288" y="104" width="24" height="44" rx="10" fill="#1ed5ff" />
+  <path d="M294 112h12l-6 28h-12z" fill="#0d243b" />
+  <path d="M96 128h60l-12 26H80z" fill="#1ed5ff" opacity="0.35" />
+  <path d="M200 128h16l10 26h-16z" fill="#1ed5ff" opacity="0.35" />
+  <circle cx="144" cy="206" r="20" fill="#091324" stroke="#1ed5ff" stroke-width="6" />
+  <circle cx="236" cy="206" r="20" fill="#091324" stroke="#1ed5ff" stroke-width="6" />
+  <path d="M140 68h120l22 20h-164z" fill="#0b1b2f" opacity="0.65" />
+  <path d="M168 52h72l-8 16h-72z" fill="#1ed5ff" />
+  <path d="M180 40h48l-6 12h-36z" fill="#0d243b" />
+  <path d="M296 176l18 30h-52l-12-30z" fill="#0d243b" />
+  <circle cx="312" cy="218" r="12" fill="#1ed5ff" />
 </svg>

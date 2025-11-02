@@ -1,13 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-labelledby="title">
+  <title id="title">Управление на автопарк</title>
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#192a56"/>
-      <stop offset="100%" stop-color="#273c75"/>
+    <linearGradient id="bg11" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#041020" />
+      <stop offset="100%" stop-color="#0f3a60" />
     </linearGradient>
   </defs>
-  <rect width="400" height="260" rx="24" fill="url(#grad)"/>
-  <path d="M40 170 c20-50 80-80 140-60 50 15 80 70 140 60" stroke="#00c2ff" stroke-width="12" fill="none" stroke-linecap="round"/>
-  <circle cx="130" cy="185" r="26" fill="#0b1a33" stroke="#00c2ff" stroke-width="8"/>
-  <circle cx="270" cy="185" r="26" fill="#0b1a33" stroke="#00c2ff" stroke-width="8"/>
-  <text x="200" y="120" font-family="'Manrope', 'Segoe UI', sans-serif" font-size="48" fill="#ffffff" text-anchor="middle">ВибиТранс</text>
+  <rect width="400" height="260" rx="24" fill="url(#bg11)" />
+  <rect x="44" y="192" width="312" height="24" rx="12" fill="#081d31" />
+  <path d="M84 128h184l18 24c4 6 12 10 20 10h52v28H60l14-44c4-12 14-18 22-18z" fill="#0d2741" />
+  <rect x="96" y="102" width="146" height="44" rx="14" fill="#173d5f" />
+  <rect x="106" y="112" width="126" height="26" rx="10" fill="#061728" />
+  <path d="M264 86h60l36 40-36 40h-60z" fill="#173d5f" />
+  <path d="M272 100h44l-22 26z" fill="#2fd2ff" />
+  <path d="M88 132h60l-14 24H72z" fill="#2fd2ff" opacity="0.35" />
+  <path d="M198 132h16l8 24h-16z" fill="#2fd2ff" opacity="0.35" />
+  <circle cx="142" cy="206" r="20" fill="#091324" stroke="#2fd2ff" stroke-width="6" />
+  <circle cx="236" cy="206" r="20" fill="#091324" stroke="#2fd2ff" stroke-width="6" />
+  <rect x="128" y="62" width="168" height="24" rx="12" fill="#2fd2ff" />
+  <rect x="136" y="70" width="152" height="8" rx="4" fill="#061728" />
+  <path d="M120 70l-26-26" stroke="#2fd2ff" stroke-width="6" stroke-linecap="round" />
+  <path d="M120 86l-26 26" stroke="#2fd2ff" stroke-width="6" stroke-linecap="round" />
+  <path d="M308 62l26-26" stroke="#2fd2ff" stroke-width="6" stroke-linecap="round" />
+  <path d="M308 86l26 26" stroke="#2fd2ff" stroke-width="6" stroke-linecap="round" />
+  <path d="M178 160l32 22 32-22" fill="none" stroke="#2fd2ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M188 170l22 16 22-16" fill="none" stroke="#2fd2ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.7" />
 </svg>

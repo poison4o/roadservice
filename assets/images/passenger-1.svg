@@ -1,13 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-labelledby="title">
+  <title id="title">Техник инспектира двигател на лек автомобил</title>
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#192a56"/>
-      <stop offset="100%" stop-color="#273c75"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1a33" />
+      <stop offset="100%" stop-color="#123a6d" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#24d1ff" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#24d1ff" stop-opacity="0" />
     </linearGradient>
   </defs>
-  <rect width="400" height="260" rx="24" fill="url(#grad)"/>
-  <path d="M40 170 c20-50 80-80 140-60 50 15 80 70 140 60" stroke="#00c2ff" stroke-width="12" fill="none" stroke-linecap="round"/>
-  <circle cx="130" cy="185" r="26" fill="#0b1a33" stroke="#00c2ff" stroke-width="8"/>
-  <circle cx="270" cy="185" r="26" fill="#0b1a33" stroke="#00c2ff" stroke-width="8"/>
-  <text x="200" y="120" font-family="'Manrope', 'Segoe UI', sans-serif" font-size="48" fill="#ffffff" text-anchor="middle">ВибиТранс</text>
+  <rect width="400" height="260" rx="24" fill="url(#bg)" />
+  <rect x="30" y="170" width="340" height="32" rx="16" fill="#091324" />
+  <path d="M90 164h132c6 0 12 4 13 10l6 32H69l6-32c1-6 7-10 13-10z" fill="#112847" />
+  <path d="M112 118h90l18 32h-126z" fill="#1d3f6f" />
+  <rect x="118" y="108" width="78" height="42" rx="6" fill="#f1fbff" />
+  <path d="M116 150h82v16h-82z" fill="#123a6d" />
+  <circle cx="128" cy="190" r="18" fill="#091324" stroke="#24d1ff" stroke-width="6" />
+  <circle cx="226" cy="190" r="18" fill="#091324" stroke="#24d1ff" stroke-width="6" />
+  <path d="M86 150h28l-8 16h-28z" fill="#24d1ff" />
+  <path d="M252 150h28l8 16h-28z" fill="#24d1ff" />
+  <path d="M60 92l30 6 10 52-22 6z" fill="#1d3f6f" />
+  <path d="M56 80c0-10 8-18 18-18s18 8 18 18-8 18-18 18-18-8-18-18z" fill="#24d1ff" />
+  <path d="M60 102l46 12-6 16-46-12z" fill="#0f2646" />
+  <path d="M64 84h12l10 54-12 2z" fill="#f1fbff" opacity="0.85" />
+  <rect x="196" y="118" width="44" height="18" rx="4" fill="#24d1ff" opacity="0.25" />
+  <ellipse cx="157" cy="70" rx="88" ry="42" fill="url(#glow)" />
+  <path d="M196 100c22-10 26-40 42-42 10-1 18 6 22 12" fill="none" stroke="#24d1ff" stroke-width="6" stroke-linecap="round" />
+  <circle cx="268" cy="70" r="10" fill="#24d1ff" />
+  <path d="M274 70l34 22" stroke="#24d1ff" stroke-width="6" stroke-linecap="round" />
+  <path d="M308 92c12 6 18 22 12 34l-16 32h-36l10-42z" fill="#1d3f6f" />
+  <path d="M284 118h32l-6 18h-32z" fill="#123a6d" />
+  <circle cx="292" cy="188" r="16" fill="#091324" stroke="#24d1ff" stroke-width="6" />
 </svg>
