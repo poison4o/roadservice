@@ -1,28 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-labelledby="title desc">
   <title id="title">Управление на автопарк</title>
+  <desc id="desc">Дигитално табло с маршрут, графици и камиони в автопарк.</desc>
   <defs>
-    <linearGradient id="bg11" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#041020" />
-      <stop offset="100%" stop-color="#0f3a60" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071627" />
+      <stop offset="100%" stop-color="#123a6d" />
     </linearGradient>
   </defs>
-  <rect width="400" height="260" rx="24" fill="url(#bg11)" />
-  <rect x="44" y="192" width="312" height="24" rx="12" fill="#081d31" />
-  <path d="M84 128h184l18 24c4 6 12 10 20 10h52v28H60l14-44c4-12 14-18 22-18z" fill="#0d2741" />
-  <rect x="96" y="102" width="146" height="44" rx="14" fill="#173d5f" />
-  <rect x="106" y="112" width="126" height="26" rx="10" fill="#061728" />
-  <path d="M264 86h60l36 40-36 40h-60z" fill="#173d5f" />
-  <path d="M272 100h44l-22 26z" fill="#ffb272" />
-  <path d="M88 132h60l-14 24H72z" fill="#ffb272" opacity="0.35" />
-  <path d="M198 132h16l8 24h-16z" fill="#ffb272" opacity="0.35" />
-  <circle cx="142" cy="206" r="20" fill="#091324" stroke="#ffb272" stroke-width="6" />
-  <circle cx="236" cy="206" r="20" fill="#091324" stroke="#ffb272" stroke-width="6" />
-  <rect x="128" y="62" width="168" height="24" rx="12" fill="#ffb272" />
-  <rect x="136" y="70" width="152" height="8" rx="4" fill="#061728" />
-  <path d="M120 70l-26-26" stroke="#ffb272" stroke-width="6" stroke-linecap="round" />
-  <path d="M120 86l-26 26" stroke="#ffb272" stroke-width="6" stroke-linecap="round" />
-  <path d="M308 62l26-26" stroke="#ffb272" stroke-width="6" stroke-linecap="round" />
-  <path d="M308 86l26 26" stroke="#ffb272" stroke-width="6" stroke-linecap="round" />
-  <path d="M178 160l32 22 32-22" fill="none" stroke="#ffb272" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
-  <path d="M188 170l22 16 22-16" fill="none" stroke="#ffb272" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.7" />
+  <rect width="400" height="260" rx="24" fill="url(#bg)" />
+  <ellipse cx="200" cy="214" rx="160" ry="30" fill="#081529" opacity="0.55" />
+  <g transform="translate(60 68)">
+    <rect x="0" y="0" width="160" height="132" rx="24" fill="#0d233f" stroke="#56c2ff" stroke-width="4" />
+    <rect x="20" y="24" width="120" height="80" rx="16" fill="#081627" />
+    <path d="M36 50h88l-14 24H50z" fill="#123a6d" />
+    <path d="M52 44c12-22 44-22 56 0" fill="none" stroke="#0de8ff" stroke-width="6" stroke-linecap="round" />
+    <path d="M36 86l32-16 16 16 28-24" fill="none" stroke="#ff8a3d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="40" cy="112" r="10" fill="#0de8ff" />
+    <circle cx="80" cy="112" r="10" fill="#ff8a3d" />
+    <circle cx="120" cy="112" r="10" fill="#0de8ff" />
+  </g>
+  <g transform="translate(238 60)">
+    <rect x="0" y="34" width="112" height="118" rx="20" fill="#0d233f" stroke="#ff8a3d" stroke-width="4" />
+    <rect x="12" y="12" width="88" height="36" rx="12" fill="#123a6d" />
+    <path d="M24 52h64" stroke="#56c2ff" stroke-width="6" stroke-linecap="round" />
+    <path d="M24 78h64" stroke="#56c2ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="16 12" />
+    <path d="M24 104h64" stroke="#56c2ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="10 10" />
+    <path d="M38 130h36l-8 20H46z" fill="#ff8a3d" opacity="0.6" />
+  </g>
+  <g transform="translate(162 58)">
+    <rect x="0" y="0" width="72" height="152" rx="18" fill="#081627" stroke="#0de8ff" stroke-width="4" />
+    <path d="M18 30h36l-8 20H26z" fill="#0de8ff" opacity="0.6" />
+    <rect x="12" y="70" width="48" height="22" rx="11" fill="#123a6d" />
+    <rect x="12" y="108" width="48" height="22" rx="11" fill="#0d233f" />
+  </g>
+  <path d="M108 210h58l-14 28H94z" fill="#0f79ff" opacity="0.6" />
+  <path d="M278 210h58l14 28h-58z" fill="#ff8a3d" opacity="0.6" />
 </svg>
