@@ -1,26 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-labelledby="title">
-  <title id="title">Ремонт на хладилен агрегат</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-labelledby="title desc">
+  <title id="title">Хладилни и специализирани надстройки</title>
+  <desc id="desc">Хладилен агрегат с температурни датчици и контролен панел.</desc>
   <defs>
-    <linearGradient id="bg10" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#041120" />
-      <stop offset="100%" stop-color="#0f3f62" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071627" />
+      <stop offset="100%" stop-color="#0f3157" />
+    </linearGradient>
+    <linearGradient id="temp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c6ff" />
+      <stop offset="50%" stop-color="#56c2ff" />
+      <stop offset="100%" stop-color="#ff6f61" />
     </linearGradient>
   </defs>
-  <rect width="400" height="260" rx="24" fill="url(#bg10)" />
-  <rect x="38" y="192" width="324" height="24" rx="12" fill="#081c30" />
-  <path d="M78 126h188l22 28c4 6 12 10 20 10h56v26H52l12-42c4-12 12-22 14-22z" fill="#0d2740" />
-  <rect x="90" y="98" width="172" height="54" rx="16" fill="#175074" />
-  <rect x="102" y="108" width="148" height="34" rx="10" fill="#061a2c" />
-  <path d="M280 90h40l28 36-28 36h-40z" fill="#175074" />
-  <rect x="288" y="104" width="24" height="44" rx="10" fill="#ffb56f" />
-  <path d="M294 112h12l-6 28h-12z" fill="#0d243b" />
-  <path d="M96 128h60l-12 26H80z" fill="#ffb56f" opacity="0.35" />
-  <path d="M200 128h16l10 26h-16z" fill="#ffb56f" opacity="0.35" />
-  <circle cx="144" cy="206" r="20" fill="#091324" stroke="#ffb56f" stroke-width="6" />
-  <circle cx="236" cy="206" r="20" fill="#091324" stroke="#ffb56f" stroke-width="6" />
-  <path d="M140 68h120l22 20h-164z" fill="#0b1b2f" opacity="0.65" />
-  <path d="M168 52h72l-8 16h-72z" fill="#ffb56f" />
-  <path d="M180 40h48l-6 12h-36z" fill="#0d243b" />
-  <path d="M296 176l18 30h-52l-12-30z" fill="#0d243b" />
-  <circle cx="312" cy="218" r="12" fill="#ffb56f" />
+  <rect width="400" height="260" rx="24" fill="url(#bg)" />
+  <ellipse cx="200" cy="214" rx="160" ry="32" fill="#081629" opacity="0.55" />
+  <g transform="translate(58 68)">
+    <rect x="0" y="0" width="144" height="140" rx="24" fill="#0d233f" stroke="#56c2ff" stroke-width="4" />
+    <rect x="20" y="24" width="104" height="44" rx="12" fill="#081627" />
+    <path d="M36 44h72" stroke="#0de8ff" stroke-width="6" stroke-linecap="round" />
+    <rect x="20" y="82" width="104" height="38" rx="12" fill="#123a6d" />
+    <path d="M36 104h72" stroke="#56c2ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="16 12" />
+  </g>
+  <g transform="translate(220 54)">
+    <rect x="0" y="0" width="120" height="160" rx="20" fill="#081627" stroke="#0de8ff" stroke-width="4" />
+    <rect x="16" y="18" width="88" height="44" rx="12" fill="#0f2545" />
+    <rect x="16" y="70" width="88" height="30" rx="10" fill="#0f2545" />
+    <rect x="16" y="110" width="88" height="38" rx="12" fill="#081627" />
+    <path d="M24 38h72" stroke="#0de8ff" stroke-width="6" stroke-linecap="round" />
+    <path d="M24 86h72" stroke="#ff8a3d" stroke-width="6" stroke-linecap="round" stroke-dasharray="18 10" />
+    <path d="M24 130h72" stroke="#56c2ff" stroke-width="6" stroke-linecap="round" stroke-dasharray="12 10" />
+  </g>
+  <g transform="translate(150 60)">
+    <rect x="0" y="0" width="76" height="150" rx="18" fill="#081627" stroke="#56c2ff" stroke-width="4" />
+    <rect x="12" y="18" width="52" height="84" rx="12" fill="#0d233f" />
+    <rect x="18" y="30" width="40" height="60" rx="10" fill="#081627" stroke="#00c6ff" stroke-width="3" opacity="0.6" />
+    <rect x="12" y="112" width="52" height="22" rx="11" fill="url(#temp)" />
+  </g>
+  <path d="M104 210h58l-14 28H90z" fill="#0f79ff" opacity="0.6" />
+  <path d="M276 210h58l14 28h-58z" fill="#ff8a3d" opacity="0.6" />
 </svg>
